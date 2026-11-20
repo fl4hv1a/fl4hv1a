@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./mikubanner_upscayl_2x_high-fidelity-4x.png" alt="Banner do Perfil" width="100%">
+  <img src="./tetobanner_upscayl_4x_high-fidelity-4x.png" alt="Banner do Perfil" width="100%">
 </p>
